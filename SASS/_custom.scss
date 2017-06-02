@@ -1,0 +1,71 @@
+.banner
+{
+  background: #000;
+
+}
+.email
+{
+  background: #000;
+  font-size: 30px;
+  text-align: center;
+}
+    .medium
+      {
+        display:block;
+        margin:0 auto;
+        Height:300px;
+      }
+
+.navbar
+{
+padding-left:30%;
+margin-bottom:0;
+padding-top:0;
+border: none;
+border-radius:0px !important;
+font-size: 20px;
+}
+
+.imagecol
+{
+  display: block;
+  margin:0 auto;
+  background:url('../Images/Main page.png') no-repeat;
+  Height: 700px;
+
+
+}
+.iccontainer
+{
+  background-color: white;
+  opacity: 0.7;
+  padding: 10px;
+  h1
+  {
+    color: black;
+  }
+}
+
+.rightcol
+{
+  height: 700px;
+  background: #2d333d;
+  ul
+  {
+    color: white;
+    font-size:25px;
+    Padding-top:30px;
+    li
+    {
+      list-style-type:none;
+    }
+  }
+}
+
+.footer
+{
+background: #2d333d;
+color:white;
+text-align:center;
+
+}
