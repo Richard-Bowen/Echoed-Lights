@@ -8152,10 +8152,10 @@ button.close {
   font-size: 20px; }
 
 .imagecol {
-  display: block;
-  margin: 0 auto;
-  background: url("../Images/Main page.png") no-repeat;
-  Height: 700px; }
+  background: #2d333d;
+  height: 700px;
+  background-image: url("../Images/Mainpage.jpg");
+  background-size: cover; }
 
 .iccontainer {
   background-color: white;
@@ -8163,6 +8163,10 @@ button.close {
   padding: 10px; }
   .iccontainer h1 {
     color: black; }
+
+.leftcol {
+  height: 700px;
+  background: #2d333d; }
 
 .rightcol {
   height: 700px;
